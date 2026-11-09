@@ -1,0 +1,5 @@
+references/source-texts/
+*.epub
+*.txt
+!SKILL.md
+!references/*.md
